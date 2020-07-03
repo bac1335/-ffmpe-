@@ -1,0 +1,7 @@
+#ifndef CAMERADISPLAYDEF_H
+#define CAMERADISPLAYDEF_H
+
+
+
+
+#endif // CAMERADISPLAYDEF_H
